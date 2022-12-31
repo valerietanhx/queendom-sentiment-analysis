@@ -1,10 +1,10 @@
 # queendom-sentiment-analysis
 
-This project conducts sentiment analysis on comments left on the subreddit r/kpop about the South Korean girl group survival shows Queendom and Queendom 2.
+This project conducts sentiment analysis on comments left on the subreddit r/kpop about the South Korean girl group survival shows *Queendom* and *Queendom 2*.
 
 # Motivation
 
-During the airing of Queendom 2, I observed many Redditors claiming that they had found the first season, Queendom, significantly better, citing reasons like an unappealing lineup, lacklustre performances, and a poor voting system. Queendom 2’s average TV viewership ratings were also lower than those of the first season. However, some believed that these opinions were the result of looking back at the past with rose-tinted glasses.
+During the airing of *Queendom 2*, I observed many Redditors claiming that they had found the first season, *Queendom*, significantly better, citing reasons like an unappealing lineup, lacklustre performances, and a poor voting system. *Queendom 2*’s average TV viewership ratings were also lower than those of the first season. However, some believed that these opinions were the result of looking back at the past with rose-tinted glasses.
 
 I sought to quantitatively compare the comments about these two seasons left on r/kpop during their respective airtimes to see whether the first claim held true.
 
